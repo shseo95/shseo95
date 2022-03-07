@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shseo95
-- 👀 I’m interested in Python and the cotrol method for various sensors.
+- 👀 I’m interested in Python and the control method for various sensors.
 
 <!---
 shseo95/shseo95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
